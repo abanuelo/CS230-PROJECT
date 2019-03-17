@@ -10,4 +10,4 @@ For this project, we specifically worked with a basic 4 layer CNN and a pretrain
 
 # Results
 Summarized results from our implementation.
-
+![alt text](https://user-images.githubusercontent.com/32311654/54495033-892cf100-489d-11e9-8005-46840f4b855d.png)
