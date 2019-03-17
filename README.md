@@ -5,6 +5,7 @@ Distracted driving is an epidemic in the United States; every day about 1,000 pe
 For this project, we specifically worked with a basic 4 layer CNN and a pretrained VGG-16 model architecture. Below are conceptual images of their design along with the relative losses found during training.
 
 ![alt text](https://user-images.githubusercontent.com/32311654/54494974-220f3c80-489d-11e9-98b0-59bbd2c70cac.png)
+![alt text](https://user-images.githubusercontent.com/32311654/54494996-4ff48100-489d-11e9-807d-684cfc38856b.png)
 
 # Results
 Summarized results from our implementation.
