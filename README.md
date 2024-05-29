@@ -1,4 +1,4 @@
-# CS230-PROJECT  2021
+# CS230-PROJECT
 Distracted driving is an epidemic in the United States; every day about 1,000 people are injured and nine are killed from car accidents involving distracted driving [1]. Thanks to a data set collected from a State Farm Machine Learning Competition, we have access to dash-cam footage of safe and unsafe driving. Our project aims to use this dataset to help identify distracted driving with computer vision.
 
 # Models
